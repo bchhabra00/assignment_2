@@ -3,10 +3,9 @@ let b=function(array)
 {
     for(let i=0;i<array.length;i++)
     {
-      console.log(a[i]+':'+array[i]);
+      console.log(a[i]+':' + array[i]);
     }
 };
-
 b([1,'dog','one']);
 
 
